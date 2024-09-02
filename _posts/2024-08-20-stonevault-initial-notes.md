@@ -14,7 +14,7 @@ description: Instance overview of the Stonevault for the first season of the War
 vods:
 
 - [The Bible ](https://youtu.be/2E01CFf2hag?si=uA3B7Z6Txs92F_Ef) (Quazzi Masterclass)
-- [Phunk's blind run](https://www.wowhead.com/beta/npc=210156/skarmorak) (SV+0)
+- [Phunk's blind run](https://youtu.be/oOU14wLwoRM?si=Di7HvW2y4-RDxGkq) (SV+0)
 
 Decurses are a premium (stoneform ftw).
 
