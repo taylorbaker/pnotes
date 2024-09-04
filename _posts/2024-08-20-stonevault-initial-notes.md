@@ -125,7 +125,7 @@ mobs:
 
 - Aspiring Forgehand (ID 212405)
   - Fracturing Blows - *intermittently applies stacking dmg taken dot*
-  - Fracture - *stacking dmg taken dot*
+  - Fracture - *applies slow*
 - Forgebound Mender (ID 2133380)
   - Restoring Metals - ***priority interrupt**, big enemy heal*
   - Alloy Bolt - *bait/low-priority interrupt*
@@ -192,7 +192,7 @@ mobs:
   - Stonebreaker Strike - *tankbuster, physical dmg*
   - Shield Stampede - *dodge charge* (direction of dark blue arrow, hard to see)
 - Rock Smasher (ID 213954)
-  - Granite Eruption - 
+  - Granite Eruption - *nature dmg proximity knockback*
   - Smash Rock - *unavoidable aoe dmg with stacking dmg taken debuff*, stacking Smashed
 - Curseforge Stoneshaper (ID 214066)
   - Stone Bolt - *low-priority interrupt*
